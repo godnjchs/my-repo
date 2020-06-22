@@ -1,0 +1,27 @@
+[33mcommit db4434f5dacc3353f384213f958f07a18640e5da[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: KangHoJin <godnjchs@naver.com>
+Date:   Mon Jun 22 12:00:51 2020 +0900
+
+    Message3
+
+ heelo2.txt | 1 [32m+[m
+ hello1.txt | 1 [32m+[m
+ 2 files changed, 2 insertions(+)
+
+[33mcommit c2a09f91ed711b94075e6cd347a8f8fecbfefcb1[m
+Author: KangHoJin <godnjchs@naver.com>
+Date:   Mon Jun 22 11:57:23 2020 +0900
+
+    Massage2
+
+ hello1.txt | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 64a22521cfb14cd093ace786b582389a1532ab9d[m
+Author: KangHoJin <godnjchs@naver.com>
+Date:   Mon Jun 22 11:56:26 2020 +0900
+
+    Massage1
+
+ hello1.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
